@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A Flutter application for reading daily news.
 
 ## Getting Started
 
